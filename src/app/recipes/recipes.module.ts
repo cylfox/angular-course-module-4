@@ -7,7 +7,6 @@ import { IonicModule } from "@ionic/angular";
 import { RecipesPageRoutingModule } from "./recipes-routing.module";
 
 import { RecipesPage } from "./recipes.page";
-import { Routes } from "@angular/router";
 
 //const routes: Routes = [{ path: "", component: RecipesPage }];
 
